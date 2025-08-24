@@ -1,5 +1,3 @@
-Cat Breed Android Application  
-
 A **native Android + Java servlet app** that fetches cat breed info from [TheCatAPI](https://thecatapi.com/), logs user activity to **MongoDB**, and visualizes insights in a **custom dashboard**.  
 
 📄 [Read Full Project Write-Up (PDF)](./Project4%20WriteUp%20By%20Neharika.pdf)  
