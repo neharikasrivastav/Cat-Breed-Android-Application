@@ -24,5 +24,5 @@ A **native Android + Java servlet app** that fetches cat breed info from [TheCat
 
 ---
 
-## 📂 Project Structure  
+
 
